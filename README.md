@@ -1,1 +1,1 @@
-# systematic_trading
+# Tools for systematic trading
