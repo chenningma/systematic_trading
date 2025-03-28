@@ -4,7 +4,7 @@ Assets:
 Crypto
 Equities
 
-Functions:
+\nFunctions:
 Download data for assets: price & fundamentals
 Run backtests and test trading strategies:
     Statistical rules (ranking, oscillators, MACD, etc)
