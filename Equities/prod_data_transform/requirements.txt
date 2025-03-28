@@ -1,0 +1,14 @@
+pandas
+numpy
+python-dotenv
+google-cloud-bigquery
+google-cloud-bigquery-storage
+db-dtypes
+xgboost
+scikit-learn
+shap
+nasdaq-data-link
+ib_insync
+alpaca-py
+plotly-express
+matplotlib

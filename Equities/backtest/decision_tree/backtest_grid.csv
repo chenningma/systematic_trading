@@ -1,0 +1,4 @@
+﻿train_dataset,dependent_var_name,model_id
+training_data_top60pct_ex_biotech,is_top_200_next_month,132
+training_data_top60pct_biotech,is_top_300_next_month,
+training_data_top60pct,,
