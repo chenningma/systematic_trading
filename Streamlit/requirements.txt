@@ -1,0 +1,10 @@
+pandas
+numpy
+google-cloud-bigquery
+streamlit
+streamlit-aggrid
+plotly-express
+openai
+google-genai
+google-generativeai
+
